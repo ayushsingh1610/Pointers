@@ -35,5 +35,7 @@
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
-  "extensions.supportVirtualWorkspaces": { "<HarryHopkinson.vs-code-runner>": true }
+  "extensions.supportVirtualWorkspaces": {
+    "<HarryHopkinson.vs-code-runner>": true
+  }
 }
