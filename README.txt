@@ -8,3 +8,6 @@ Write a program in C to find the factorial of a given number using pointers.
 Write a program in C to compute the sum of all elements in an array using pointers.
 Write a program in C to print the elements of an array in reverse order.
 Write a program in C to sort an array using a pointer.
+Calculate the average of array elements.
+Declaration of Pointer to a Pointer in C
+Write a program in C to count the number of vowels and consonants in a string using a pointer. 
